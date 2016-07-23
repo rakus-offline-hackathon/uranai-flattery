@@ -1,3 +1,3 @@
-/**
- * Created by homma on 2016/07/23.
- */
+fun main(args: Array<String>) {
+    println("Hello World!!")
+}
